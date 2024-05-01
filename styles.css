@@ -1,0 +1,124 @@
+body {
+    background-color: #DFF5FF;
+    text
+}
+
+h1 {
+    color: hsl(179, 62%, 43%);
+    margin: 50px auto 30px 50px;
+    font-family: "Karla", sans-serif;
+}
+
+h2 {
+    color: hsl(204, 43%, 93%);
+    margin: 50px auto 30px 50px;
+    font-family: "Karla", sans-serif;
+}
+
+p {
+    font-size: 130%;
+    font-family: "Karla", sans-serif;
+    line-height: 1.5;
+}
+
+span {
+font-size: 200%;
+color: hsl(204, 43%, 93%);
+position: relative;
+top: 10px;
+margin-right: 10px;
+}
+
+.bottom-left-container {
+background-color: #1AACAC;
+display: inline-block;
+width: 50%;
+height: 55%;
+border-bottom-left-radius: 10px;
+
+}
+
+.bottom-right-container {
+background-color: #64CCC5;
+display: inline-block;
+float: right;
+width: 50%;
+height: 55%;
+border-bottom-right-radius: 10px;
+}
+
+.btn-sign-up {
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    height: 10px;
+    line-height: 10px;
+    color: #FFFFFF;
+    font-family: "Karla", sans-serif;
+    width: 250px;
+    font-size: 16px;
+    font-weight: 100;
+    padding: 25px;
+    background-color: hsl(71, 73%, 54%);
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin: 0 auto auto 50px;
+ }
+
+ .btn-sign-up:hover {
+    background: #d1f0c2;
+    border: solid ##1AACAC 1px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+ }
+
+.main-container {
+margin: 30px auto 30px ;
+width: 55%;
+height: 38em;
+}
+
+.p-top {
+    color: hsl(218, 22%, 67%);
+    margin: 0 auto auto 50px;
+}
+
+.price {
+    color: #C7C8CC;
+    margin: 0 auto 10px 50px;
+}
+
+.p-bottom-left {
+color: hsl(204, 43%, 93%);
+margin: 0 auto 30px 50px;
+}
+
+.p-bottom-right {
+    color: #DDDDDD;
+    font-size: 105%;
+    margin: 0 auto auto 50px;
+    word-spacing: 5px;
+}
+
+.top-container {
+width: 100%;    
+height: 45%;
+background-color: white;
+float: inline-start;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+
+}
+
+.yellow-head {
+    color: hsl(71, 73%, 54%);
+    margin: 0 auto 25px 50px;
+}
+
+#mnth {
+    margin-bottom: 5px;
+}
